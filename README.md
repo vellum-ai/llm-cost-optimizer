@@ -15,7 +15,7 @@ Typical result: **60-65% reduction in weekly LLM spend** with no meaningful qual
 Run this in your terminal (or ask your Vellum assistant to run it):
 
 ```bash
-assistant skills add vellum-ai/llm-cost-optimizer
+assistant skills add vellum-ai/llm-cost-optimizer@llm-cost-optimizer
 ```
 
 **Step 2 — Ask your assistant to run it**
