@@ -50,7 +50,3 @@ Your assistant will load [`SKILL.md`](./llm-cost-optimizer/SKILL.md) and walk th
 
 - Vellum assistant (cloud or local)
 - `assistant` CLI
-
-## License
-
-MIT
