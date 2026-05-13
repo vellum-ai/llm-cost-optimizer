@@ -18,13 +18,17 @@ Run this in your terminal (or ask your Vellum assistant to run it):
 assistant skills add vellum-ai/llm-cost-optimizer@llm-cost-optimizer
 ```
 
-**Step 2 — Ask your assistant to run it**
+**Step 2 — Restart the app**
+
+Restart your Vellum assistant app so it picks up the newly installed skill.
+
+**Step 3 — Ask your assistant to run it**
 
 Open a conversation with your Vellum assistant and say:
 
 > "Load the llm-cost-optimizer skill and run it"
 
-Your assistant will load [`SKILL.md`](./SKILL.md) and walk through the steps with you.
+Your assistant will load [`SKILL.md`](./llm-cost-optimizer/SKILL.md) and walk through the steps with you.
 
 1. Pull your weekly spend breakdown by call site
 2. Read your current overrides
