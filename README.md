@@ -10,13 +10,21 @@ Typical result: **60-65% reduction in weekly LLM spend** with no meaningful qual
 
 ## How to use it
 
-Load the skill in your Vellum assistant:
+**Step 1 — Install the skill**
 
-```
-assistant skills load llm-cost-optimizer
+Run this in your terminal (or ask your Vellum assistant to run it):
+
+```bash
+assistant skills add vellum-ai/llm-cost-optimizer
 ```
 
-Then follow the steps in [`SKILL.md`](./SKILL.md):
+**Step 2 — Ask your assistant to run it**
+
+Open a conversation with your Vellum assistant and say:
+
+> "Load the llm-cost-optimizer skill and run it"
+
+Your assistant will load [`SKILL.md`](./SKILL.md) and walk through the steps with you.
 
 1. Pull your weekly spend breakdown by call site
 2. Read your current overrides
